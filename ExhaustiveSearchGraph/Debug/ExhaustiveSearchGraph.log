@@ -1,3 +1,4 @@
 ﻿  Source.cpp
+c:\users\andrew\documents\visual studio 2015\projects\exhaustivesearchgraph\exhaustivesearchgraph\source.cpp(146): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
   ExhaustiveSearchGraph.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ExhaustiveSearchGraph\Debug\ExhaustiveSearchGraph.exe
   ExhaustiveSearchGraph.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ExhaustiveSearchGraph\Debug\ExhaustiveSearchGraph.pdb (Partial PDB)
